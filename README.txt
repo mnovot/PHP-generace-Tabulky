@@ -1,0 +1,1 @@
+Dobrı den, mım zadáním bylo vytvoøit tøídu v php a zdokumentovat jí v Phpdocumentoru, vytvoøil jsem jednouchou tøídu pro vygenerování tabulky bez psaní HTML tagù. Pøíklad toho jak tøída fungije najedete v souboru test.php. Mirek Novotnı, I4.
